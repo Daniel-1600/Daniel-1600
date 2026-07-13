@@ -4,9 +4,6 @@
 * 🌱 Currently learning Kubernetes, Go and Distributed Systems
 * 🚀 Open Source Contributor
 
-### Profile Traffic Stats
-![Profile Views](https://komarev.com)
-
 
 ### Languages and Frameworks:
 <p align="left">
