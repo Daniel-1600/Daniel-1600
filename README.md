@@ -4,6 +4,10 @@
 * 🌱 Currently learning Kubernetes, Go and Distributed Systems
 * 🚀 Open Source Contributor
 
+### Profile Traffic Stats
+![Profile Views](https://komarev.com)
+
+
 ### Languages and Frameworks:
 <p align="left">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
