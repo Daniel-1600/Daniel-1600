@@ -1,7 +1,7 @@
 ## Hi there, I'm Daniel 👋
 
 * 💻 Backend Engineer
-* 🌱 Currently learning Kubernetes, Go and Distributed Systems
+* 🌱 Currently learning Kubernetes, Go,rust and Distributed Systems
 * 🚀 Open Source Contributor
 
 
